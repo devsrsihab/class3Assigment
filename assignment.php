@@ -18,9 +18,9 @@ Firstly you have to calculate the average mark of Rishita.
 Secondly you have to show the grade message (Like as: “You got A+”) by following this grading range. */
 
 
-$subjectA = 80; //subjec A
+$subjectA = 75; //subjec A
 $subjectB = 80; //subject B
-$subjectC = 85; //subject C
+$subjectC = 65; //subject C
 $subjectD = 90; //subject D
 $totalSubMark =  $subjectA + $subjectB +  $subjectC + $subjectD ; //Total Mark Variables
 $subQt = 4; //subject Quantity
